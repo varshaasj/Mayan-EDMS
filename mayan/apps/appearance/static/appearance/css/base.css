@@ -373,7 +373,7 @@ a i {
 
 /*Bootstrap button outline override*/
 .btn-outline {
-    background-color: transparent;
+    background-color: black;
     color: inherit;
 }
 
@@ -416,6 +416,7 @@ a i {
 
 .btn-xs {
     padding: 1px 5px 0px;
+    background-color: black;
 }
 
 /*
@@ -460,9 +461,9 @@ a i {
 }
 
 #main-menu-button-open {
-    background-color: transparent;
+    background-color: #121212;
     border: 0;
-    border-right: 1px solid #95a5a6;
+    border-right: 1px solid #121212;
     display: block;
     padding: 6px 20px 0px 10px;
     margin: 0 10px 0 -15px;
